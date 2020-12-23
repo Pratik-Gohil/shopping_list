@@ -1,4 +1,4 @@
 {
   "mongoURI": "YourMongoURI",
-  "jwtSecret": "sl_myJwtSecret"
+  "jwtSecret": "jwtTOKEN"
 }
